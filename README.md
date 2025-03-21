@@ -36,7 +36,9 @@ Input (maxlen=40) → Embedding (64 units) → Bidirectional LSTM (128 units)
 
 ### Dataset Link
 **Train.csv** : https://drive.google.com/file/d/1ol_trXynKdvk8ycGpxJG4XUBwrKW08FO/view?usp=drive_link
+
 **Fake.csv**  : https://drive.google.com/file/d/1rc2KjOaV46VqJ1HBGJO_AZebP4ZDINqp/view?usp=drive_link
+
 **Notebook Link(Colab)** : https://colab.research.google.com/drive/1eUqkqSRzjyB12FUgYQjaARSZljPLZdqL?usp=sharing
 
 ### Author: Diptak Chattopadhyay
